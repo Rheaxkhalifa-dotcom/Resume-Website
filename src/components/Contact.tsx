@@ -76,7 +76,7 @@ export default function Contact() {
             <span className="text-gray-600 text-sm">Rhea Kalifa</span>
           </div>
           <p className="text-gray-700 text-xs text-center sm:text-right">
-            Senior Associate, Forensics · EY Belfast · Open to new opportunities
+            Senior Associate, Forensics · Investigation and Compliance·EY 
           </p>
         </div>
       </div>
