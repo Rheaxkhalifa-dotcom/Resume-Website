@@ -13,7 +13,7 @@ const projects: Project[] = [
   {
     icon: Mic2,
     title: 'Rhea Talks',
-    desc: "A content platform exploring AI, financial crime, personal finance, career growth, and women's ambition — making complex topics genuinely engaging.",
+    desc: "A content platform exploring AI, financial crime, personal finance, career growth, and women's ambition making complex topics genuinely engaging.",
     status: 'Active',
     statusColor: 'bg-emerald-400/10 text-emerald-400 border-emerald-400/20',
     tags: ['Content Strategy', 'Personal Brand', 'Thought Leadership'],
@@ -21,7 +21,7 @@ const projects: Project[] = [
   {
     icon: Cpu,
     title: 'CryptoReg AI',
-    desc: 'Concept for an AI-powered regulatory intelligence platform for digital assets — tracking, interpreting, and alerting compliance teams to crypto regulatory change.',
+    desc: 'Concept for an AI-powered regulatory intelligence platform for digital assets tracking, interpreting, and alerting compliance teams to crypto regulatory change.',
     status: 'Concept',
     statusColor: 'bg-yellow-400/10 text-yellow-400 border-yellow-400/20',
     tags: ['RegTech', 'Crypto', 'AI', 'SaaS'],
@@ -29,7 +29,7 @@ const projects: Project[] = [
   {
     icon: PenTool,
     title: 'AI x Compliance',
-    desc: 'Practical explainers on AML, fraud, AI governance, and emerging financial crime risks — written for practitioners, not academics.',
+    desc: 'Practical explainers on AML, fraud, AI governance, and emerging financial crime risks written for practitioners, not academics.',
     status: 'Active',
     statusColor: 'bg-emerald-400/10 text-emerald-400 border-emerald-400/20',
     tags: ['AML', 'AI Governance', 'Financial Crime'],
