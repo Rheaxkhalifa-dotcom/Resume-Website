@@ -18,7 +18,7 @@ export default function Contact() {
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-5 mb-10">
           <a
-            href="mailto:rihabkalifa@gmail.com"
+            href="mailto:rihab.x.khalifa@gmail.com"
             className="card-hover group bg-[#1e1e1e] border border-white/8 rounded-xl p-6 flex flex-col gap-3 cursor-pointer"
           >
             <div className="w-10 h-10 bg-yellow-400/8 rounded-lg flex items-center justify-center group-hover:bg-yellow-400/18 transition-colors duration-200">
@@ -26,12 +26,12 @@ export default function Contact() {
             </div>
             <div>
               <p className="text-gray-500 text-xs uppercase tracking-widest mb-1 font-medium">Email</p>
-              <p className="text-white text-sm font-medium break-all">rihabkalifa@gmail.com</p>
+              <p className="text-white text-sm font-medium break-all">rihab.x.khalifa@gmail.com</p>
             </div>
           </a>
 
           <a
-            href="https://www.linkedin.com/in/rhea-kalifa"
+            href="https://www.linkedin.com/in/rihab-khalifa/"
             target="_blank"
             rel="noopener noreferrer"
             className="card-hover group bg-[#1e1e1e] border border-white/8 rounded-xl p-6 flex flex-col gap-3 cursor-pointer"
@@ -59,7 +59,7 @@ export default function Contact() {
 
         <div className="text-center">
           <a
-            href="mailto:rihabkalifa@gmail.com"
+            href="mailto:rihab.x.khalifa@gmail.com"
             className="inline-flex items-center gap-2 bg-yellow-400 text-[#181818] font-semibold px-8 py-4 rounded-md hover:bg-yellow-300 transition-all duration-200 text-base"
           >
             Send a Message
