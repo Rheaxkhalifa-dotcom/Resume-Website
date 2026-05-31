@@ -41,7 +41,7 @@ export default function Contact() {
             </div>
             <div>
               <p className="text-gray-500 text-xs uppercase tracking-widest mb-1 font-medium">LinkedIn</p>
-              <p className="text-white text-sm font-medium">linkedin.com/in/rhea-kalifa</p>
+              <p className="text-white text-sm font-medium">Rihab(Rhea)Khalifa</p>
             </div>
           </a>
 
